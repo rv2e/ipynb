@@ -4,3 +4,4 @@ language       : python
 from           : 'python-notebooks-prod:28'
 runtime_config : default
 technology     : 2
+state          : live
